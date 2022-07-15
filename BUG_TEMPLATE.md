@@ -16,10 +16,10 @@
 
 - What was the bug experienced on?
 
--[ ] Computer
--[ ] Tablet
--[ ] Phone
--[ ] Other
+- [ ] Computer
+- [ ] Tablet
+- [ ] Phone
+- [ ] Other
 
 <!--- If 'Other', please explain! -->
 
